@@ -17,7 +17,7 @@
     display: grid;
     background: #D7D7D7;
     grid-template-columns: repeat(11, 150px);
-    height: 100vh;
+    height: 99vh;
     grid-column-gap: 1.5px;
     margin-top: -715px;
     opacity: 50%;
@@ -94,16 +94,16 @@
 /* player */
 
 .player{
-    width: 45px;
+    width: 55px;
     text-align: center;
     align-items: center;
     justify-content: center;
     fill: #0B42FF;
     /* background-color: #FEDD00; */
-    margin-left: 710px;
-    margin-top: -420px;
+    margin-left: 720px;
+    margin-top: -424px;
     border-radius: 50%;
-    padding: 20px;
+    padding: 5px;
     border: #FEDD00 4px solid;
 }
 
@@ -149,12 +149,12 @@
      grid-template-rows: auto;
      grid-row-gap: 58px;
      margin-left: 55px;
-     margin-top: 70px;
+     margin-top: 58px;
      z-index: 1;
 }
 
 .message{
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -181,7 +181,7 @@
     height: 532px;
     display: flex;
     margin-left: 1054px;
-    margin-top: -508px;
+    margin-top: -516px;
     display: grid;
     /* flex-direction: row; */
     /* z-index: -1; */
@@ -212,10 +212,10 @@
     grid-template-rows: 70px 100px;
     grid-row-gap: 30px;
     color: rgb(0, 0, 0);
-    width: 350px;
+    width: 400px;
     margin-top: -280px;
     background-color: transparent;
-    font-size: 14px;
+    font-size: 16px;
     margin-left: 32px;
     font-weight: 600;
 }
@@ -225,7 +225,7 @@
     background-color:transparent;
     font-weight: 800;
     color: #0B42FF;
-    margin-top: -10px;
+    margin-top: 5px;
 }
 
 /* bottom right corner */
